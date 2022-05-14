@@ -1,0 +1,84 @@
+the wind howls and bites, tearing through the bare pine trees that surround you.
+you are standing on sloped terrain, supported by thick snow cover.
+the weather is snowing furiously.
+the time is unknown.
+
+ d) describe
+ g) go
+ w) wait
+
+? d
+
+the wind howls and bites, tearing through the bare pine trees that surround you.
+you are standing on sloped terrain, supported by thick snow cover.
+the weather is snowing furiously.
+the time is unknown.
+
+ d) describe
+ g) go
+ w) wait
+
+? w
+
+some time passes.
+
+ d) describe
+ g) go
+ w) wait
+
+? g
+
+where to go?
+
+ c) cancel
+ k) up the slope
+ j) down the slope
+ h) left of the upward slope
+ l) right of the upward slope
+
+? k
+
+you trudge up the slope.
+
+ d) describe
+ g) go
+ w) wait
+
+? g
+
+where to go?
+
+ c) cancel
+ k) up the slope
+ j) down the slope
+ h) left of the upward slope
+ l) right of the upward slope
+
+? k
+
+you trudge up the slope.
+the terrain is less sloped here.
+
+ d) describe
+ g) go
+ w) wait
+
+? g
+
+where to go?
+
+ c) cancel
+ k) up the slope
+ j) down the slope
+ h) left of the upward slope
+ l) right of the upward slope
+
+? k
+
+you trudge up the slope.
+
+ d) describe
+ g) go
+ w) wait
+
+

@@ -1,0 +1,13 @@
+[package]
+name = "description-system"
+version = "0.1.0"
+authors = ["Ula Shipman <ula.hello@mailbox.org>"]
+edition = "2021"
+publish = false
+
+[lib]
+name = "lib"
+path = "src/lib.rs"
+
+[dependencies]
+nanorand = "0.7"
